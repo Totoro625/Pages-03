@@ -53,9 +53,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'//bg01.webp': 'center',
-							'//bg02.webp': 'center',
-							'//bg03.webp': 'center'
+							'/bg01.webp': 'center',
+							'/bg02.webp': 'center',
+							'/bg03.webp': 'center'
 						},
 					// Delay.
 						delay: 6000

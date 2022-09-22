@@ -54,11 +54,10 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'/assets/bg01.webp': 'center',
-							'/assets/bg02.webp': 'center',
-							'/assets/bg03.webp': 'center'
+							'/assets/bg02.webp': 'center'
 						},
 					// Delay.
-						delay: 6000
+						delay: 12000
 
 				};
 
